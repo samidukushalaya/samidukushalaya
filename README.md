@@ -15,7 +15,7 @@ I'm a passionate **Data Engineer** who loves building robust data pipelines, opt
 - **Big Data**: Spark, Kafka, Hive
 - **Orchestration**: Airflow, dbt
 - **Cloud**: AWS, GCP
-- **Databases**: PostgreSQL, Snowflake, BigQuery
+- **Databases & Warehouses**: PostgreSQL, Snowflake, BigQuery
 - **Version Control**: Git, GitHub
 
 
