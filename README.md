@@ -11,7 +11,7 @@ I'm a passionate **Data Engineer** who loves building robust data pipelines, opt
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: Python, SQL, Bash
+- **Languages**: Python, SQL, Bash ,java
 - **Big Data**: Spark, Kafka, Hive
 - **Orchestration**: Airflow, dbt
 - **Cloud**: AWS, GCP
