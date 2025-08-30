@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Samidu Kaushalaya
 
-<!--
-**samidukushalaya/samidukushalaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Engineer** who loves building robust data pipelines, optimizing data workflows, and working with big data technologies.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Design and build scalable ETL/ELT pipelines
+- Work with tools like Apache Spark, Airflow, and dbt
+- Manage data lakes and warehouses (e.g., AWS S3, Snowflake, BigQuery)
+- Write efficient SQL and Python for data processing
+
+## 🛠️ Tools & Technologies
+
+- **Languages**: Python, SQL, Bash
+- **Big Data**: Spark, Kafka, Hive
+- **Orchestration**: Airflow, dbt
+- **Cloud**: AWS, GCP
+- **Databases**: PostgreSQL, Snowflake, BigQuery
+- **Version Control**: Git, GitHub
+
+
+
+Thanks for visiting!
