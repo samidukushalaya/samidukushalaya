@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samidu Kaushalaya
+#  👋 Hi, I'm Samidu Kaushalaya
 
 I'm a passionate **Data Engineer** who loves building robust data pipelines, optimizing data workflows, 
 and working with big data technologies
@@ -21,4 +21,4 @@ and working with big data technologies
 
 
 
-Thanks for visiting!
+## Thanks for visiting!
