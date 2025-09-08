@@ -1,4 +1,7 @@
 #  👋 Hi, I'm Samidu Kaushalaya
+<img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif
+" alt="Profile Image" width="200"/>
+
 
 I'm a passionate **Data Engineer** who loves building robust data pipelines, optimizing data workflows, 
 and working with big data technologies
