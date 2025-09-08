@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Samidu Kaushalaya
-## 👨‍💻 About Me
+# 👋 Hi, I'm Samidu Kaushalaya      <br>
+
+## 👨‍💻 About Me...
 <img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif" width="200" align="right" />
 
-
+<br>
 
 I'm a  **Data Engineer** who is passionate about learning how to work with data.  
 I enjoy exploring how data moves through systems and how to build pipelines to make data useful.  
@@ -11,7 +12,7 @@ Right now, I'm focused on learning tools like **Python**, **SQL**, and **Apache 
 and understanding how data is stored, transformed, and used in real-world applications.
 
 
-
+<br>
 
 
 
