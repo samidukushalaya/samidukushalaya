@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samidu Kaushalaya      <br>
 
 ## 👨‍💻 About Me...
-<img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif" width="200" align="right" />
+<img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif" width="300" align="right" />
 
 <br>
 
