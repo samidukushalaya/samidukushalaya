@@ -49,6 +49,6 @@ and understanding how data is stored, transformed, and used in real-world applic
 
 ## 😎 Thanks for visiting!
 
-🚀 Feel free to connect or check out my repositories.<br><br>
+🚀 Feel free to connect or check out my repositories   <br><br>
 
 <img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue2.gif" width="180">
