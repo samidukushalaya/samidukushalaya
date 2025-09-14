@@ -10,12 +10,7 @@ I enjoy exploring how data moves through systems and how to build pipelines to m
 
 Right now, I'm focused on learning tools like **Python**, **SQL**, and **Apache Spark**,  
 and understanding how data is stored, transformed, and used in real-world applications.
-
-
 <br>
-
-
-
 ## 🚀 What I Do
 
 - ✅ Design and build scalable ETL/ELT pipelines  
@@ -46,9 +41,8 @@ and understanding how data is stored, transformed, and used in real-world applic
 `Git` • `GitHub`
 
 ---
-
 ## 😎 Thanks for visiting!
 
-🚀 Feel free to connect or check out my repositories 🌳  <br><br>
+🚀 Feel free to connect or check out my repositories 🌳  <br> <br>
 
 <img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue2.gif" width="180">
