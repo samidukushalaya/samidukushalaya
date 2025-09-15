@@ -41,7 +41,7 @@ and understanding how data is stored, transformed, and used in real-world applic
 `Git` • `GitHub`
 
 ---
-## 📡 Thanks for visiting!
+## 📡 Thanks for visiting...♠📡
 
 🚀 Feel free to connect or check out my repositories 🌳  <br> <br>
 
