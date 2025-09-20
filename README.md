@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samidu Kaushalaya      <br>
 
-## 👨‍💻 About Me......
+## 👨‍💻 About Me..
 <img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif" width="250" align="right" />
 
 <br>
