@@ -23,7 +23,7 @@ and understanding how data is stored, transformed, and used in real-world applic
 ## 🛠️ Tools & Technologies
 
 **Languages**  
-`Python` • `SQL` • `Bash` • `Java`
+`Python` • `SQL` • `Bash` • `Java`• `C` • `C++` 
 
 **Big Data**  
 `Apache Spark` • `Kafka` • `Hive`
