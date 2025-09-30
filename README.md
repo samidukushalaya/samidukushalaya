@@ -8,7 +8,7 @@
 I'm a **Data Engineer** who is passionate about learning how to work with data.  
 I enjoy exploring how data moves through systems and how to build pipelines to make data useful.  
 
-Right now, I'm focused on learning tools like **Python**, **SQL**, and **Apache Spark**,  
+Right now, I'm focused on learning tools like **Python**, **SQL**,**Apache Spark**  
 and understanding how data is stored, transformed, and used in real-world applications.
 <br>
 ## 🚀 What I Do
