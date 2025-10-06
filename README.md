@@ -11,7 +11,7 @@ I enjoy exploring how data moves through systems and how to build pipelines to m
 Right now, I'm focused on learning tools like **Python** , **SQL** , **Apache Spark** , **Kafka**  
 and understanding how data is stored, transformed, and used in real-world applications.
 <br>
-## 🚀 What I Do
+## 🚀 What I Do..
 
 - ✅ Design and build scalable ETL/ELT pipelines  
 - ✅ Work with tools like Apache Spark, Airflow, and dbt  
