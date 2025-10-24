@@ -12,7 +12,7 @@ and understanding how data is stored, transformed, and used in real-world applic
 ## 🚀 What I Do
 
 - ✅ Design and build scalable ETL/ELT pipelines.  
-- ✅ Work with tools like Apache Spark, Airflow, and dbt  
+- ✅ Work with tools like Apache Spark, Airflow, and dbt. 
 - ✅ Manage data lakes and warehouses (e.g., AWS S3, Snowflake, BigQuery)  
 - ✅ Write efficient SQL and Python for data processing  
 
