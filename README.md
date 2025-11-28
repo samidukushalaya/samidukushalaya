@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 <img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif" width="250" align="right" />
-<br>
+<br><br>
 
 I'm a **Data Engineer** who is passionate about learning how to work with data.  
 I enjoy exploring how data moves through systems and how to build pipelines to make data useful.  
