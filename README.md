@@ -1,7 +1,7 @@
 # 👋 Hi,   I'm Samidu Kaushalaya <br>
 
 ## 👨‍💻 About Me
-<img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif" width="230" align="right" />
+<img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif" width="255" align="right" />
 <br>
 
 I'm a **Data Engineer** who is passionate about learning how to work with data.  
