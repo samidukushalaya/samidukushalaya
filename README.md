@@ -1,10 +1,10 @@
-# 👋 Hi,  I'm Samidu Kaushalaya. <br>
+# 👋 Hi,  I'm Samidu Kaushalaya. <br><br>
 
 <img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif" width="250" align="left" />
 <br><br><br><br><br><br><br><br><br><br>
 
 ## 📡 Thanks for visiting!
 <br>
-🚀 Feel free to connect or check out my repositories 🌳  <br> 
+🚀 Feel free to connect or check out my repositories 🌳  <br<br> 
 
 <img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue2.gif" width="180">
