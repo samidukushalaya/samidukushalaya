@@ -1,10 +1,14 @@
-# Hi, I'm Samidu Kaushalaya<br>
-
-<img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue1.gif" width="200" align="left" />
-<br><br><br><br><br><br><br><br>
+```text
+'      ____                  _     _         _  __               _           _                   
+'     / ___|  __ _ _ __ ___ (_) __| |_   _  | |/ /__ _ _   _ ___| |__   __ _| | __ _ _   _  __ _ 
+'     \___ \ / _` | '_ ` _ \| |/ _` | | | | | ' // _` | | | / __| '_ \ / _` | |/ _` | | | |/ _` |
+'      ___) | (_| | | | | | | | (_| | |_| | | . \ (_| | |_| \__ \ | | | (_| | | (_| | |_| | (_| |
+'     |____/ \__,_|_| |_| |_|_|\__,_|\__,_| |_|\_\__,_|\__,_|___/_| |_|\__,_|_|\__,_|\__, |\__,_|
+'                                                                                    |___/       
+```
+<br>
 
 ## 📡 Thanks for visiting!
-<br>
 🚀 Feel free to connect or check out my repositories..🌳  <br><br> 
 
-<img src="https://raw.githubusercontent.com/samidukushalaya/samidukushalaya/main/assets/pictrue2.gif" width="180">
+
