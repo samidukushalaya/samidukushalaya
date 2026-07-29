@@ -11,7 +11,6 @@
 ## 📡 Thanks for visiting!
 🚀 Feel free to connect or check out my repositories..  <br><br> 
 
-<img src="assets/picture3.gif" width="320" alt="Project Demo">
 
 
 
