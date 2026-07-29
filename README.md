@@ -11,7 +11,7 @@
 ## 📡 Thanks for visiting!
 🚀 Feel free to connect or check out my repositories..  <br><br> 
 
-<img src="assets/programmingGIF.gif" width="700" alt="Project Demo">
+<img src="assets/picture3.gif" width="700" alt="Project Demo">
 
 
 
