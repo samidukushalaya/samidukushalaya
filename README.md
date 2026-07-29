@@ -9,6 +9,7 @@
 <br>
 
 ## 📡 Thanks for visiting!
-🚀 Feel free to connect or check out my repositories..🌳  <br><br> 
+🚀 Feel free to connect or check out my repositories..  <br><br> 
+
 
 
